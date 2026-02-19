@@ -1,0 +1,5 @@
+{
+  "name": "Student Diary Agent",
+  "description": "A personalized AI assistant that helps students write daily work summaries and learning outcomes in a simple, relatable style, remembering your preferences and past entries.",
+  "requestFramePermissions": []
+}
